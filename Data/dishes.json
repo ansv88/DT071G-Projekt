@@ -1,0 +1,347 @@
+﻿[
+    {
+        "Id": 1,
+        "Name": "Spaghetti och köttfärssås",
+        "Category": "Kött"
+    },
+    {
+        "Id": 2,
+        "Name": "Korvstroganoff och ris",
+        "Category": "Kött"
+    },
+    {
+        "Id": 3,
+        "Name": "Fläskytterfilé och nudlar",
+        "Category": "Kött"
+    },
+    {
+        "Id": 4,
+        "Name": "Pannbiff, potatis och sås",
+        "Category": "Kött"
+    },
+    {
+        "Id": 5,
+        "Name": "Köttfärslimpa, potatis och sås",
+        "Category": "Kött"
+    },
+    {
+        "Id": 6,
+        "Name": "Stekt falukorv och makaroner",
+        "Category": "Kött"
+    },
+    {
+        "Id": 7,
+        "Name": "Ugnsbakad falukorv och potatismos",
+        "Category": "Kött"
+    },
+    {
+        "Id": 8,
+        "Name": "Taco med köttfärs",
+        "Category": "Kött"
+    },
+    {
+        "Id": 9,
+        "Name": "Blodpudding, potatisplättar och bacon",
+        "Category": "Kött"
+    },
+    {
+        "Id": 10,
+        "Name": "Ugnspannkaka med bacon",
+        "Category": "Kött"
+    },
+    {
+        "Id": 11,
+        "Name": "Lövbiff och wokgrönsaker",
+        "Category": "Kött"
+    },
+    {
+        "Id": 12,
+        "Name": "Schnitzel och pommesfrites",
+        "Category": "Kött"
+    },
+    {
+        "Id": 13,
+        "Name": "Tacopaj",
+        "Category": "Kött"
+    },
+    {
+        "Id": 14,
+        "Name": "Köttbullar och makaroner",
+        "Category": "Kött"
+    },
+    {
+        "Id": 15,
+        "Name": "Pizza",
+        "Category": "Kött"
+    },
+    {
+        "Id": 16,
+        "Name": "Kebab i pitabröd",
+        "Category": "Kött"
+    },
+    {
+        "Id": 17,
+        "Name": "Hamburgare",
+        "Category": "Kött"
+    },
+    {
+        "Id": 18,
+        "Name": "Varma mackor",
+        "Category": "Kött"
+    },
+    {
+        "Id": 19,
+        "Name": "Korv med bröd",
+        "Category": "Kött"
+    },
+    {
+        "Id": 20,
+        "Name": "Pyttipanna och ägg",
+        "Category": "Kött"
+    },
+    {
+        "Id": 21,
+        "Name": "Fiskpinnar och potatismos",
+        "Category": "Fisk"
+    },
+    {
+        "Id": 22,
+        "Name": "Stekt lax och ugnsbakade grönsaker",
+        "Category": "Fisk"
+    },
+    {
+        "Id": 23,
+        "Name": "Fiskgryta och potatis",
+        "Category": "Fisk"
+    },
+    {
+        "Id": 24,
+        "Name": "Fetaost- och laxpasta",
+        "Category": "Fisk"
+    },
+    {
+        "Id": 25,
+        "Name": "Fiskgratäng med dill och potatis",
+        "Category": "Fisk"
+    },
+    {
+        "Id": 26,
+        "Name": "Tonfisksallad",
+        "Category": "Fisk"
+    },
+    {
+        "Id": 27,
+        "Name": "Stekt lax och nudelsallad med groddar",
+        "Category": "Fisk"
+    },
+    {
+        "Id": 28,
+        "Name": "Lax Asian style med broccoli, lime och cashewnötter",
+        "Category": "Fisk"
+    },
+    {
+        "Id": 29,
+        "Name": "Panerad torsk med nudelsallad och rostad vitlöksdressing",
+        "Category": "Fisk"
+    },
+    {
+        "Id": 30,
+        "Name": "Fiskbullar och potatis",
+        "Category": "Fisk"
+    },
+    {
+        "Id": 31,
+        "Name": "Kycklinggryta och bulgur",
+        "Category": "Kyckling"
+    },
+    {
+        "Id": 32,
+        "Name": "Kycklingsallad",
+        "Category": "Kyckling"
+    },
+    {
+        "Id": 33,
+        "Name": "Chicken nuggets och ris",
+        "Category": "Kyckling"
+    },
+    {
+        "Id": 34,
+        "Name": "Flygande Jakob och ris",
+        "Category": "Kyckling"
+    },
+    {
+        "Id": 35,
+        "Name": "Baconlindad kycklingfilé och rostad potatis",
+        "Category": "Kyckling"
+    },
+    {
+        "Id": 36,
+        "Name": "Thaiwok med kyckling",
+        "Category": "Kyckling"
+    },
+    {
+        "Id": 37,
+        "Name": "Strimlad kycklingteriyaki",
+        "Category": "Kyckling"
+    },
+    {
+        "Id": 38,
+        "Name": "Enchiladas med kyckling",
+        "Category": "Kyckling"
+    },
+    {
+        "Id": 39,
+        "Name": "Taco med kyckling",
+        "Category": "Kyckling"
+    },
+    {
+        "Id": 40,
+        "Name": "Jordgubbssallad med kyckling och balsamicodressing",
+        "Category": "Kyckling"
+    },
+    {
+        "Id": 41,
+        "Name": "Kycklingspett med rostad sötpotatissallad och chilimajonnäs",
+        "Category": "Kyckling"
+    },
+    {
+        "Id": 42,
+        "Name": "Kycklingschnitzel med nudelsallad och srirachamajo",
+        "Category": "Kyckling"
+    },
+    {
+        "Id": 43,
+        "Name": "Quesadilla med kyckling och vitlöksfärskost",
+        "Category": "Kyckling"
+    },
+    {
+        "Id": 44,
+        "Name": "Halloumistroganoff och bulgur",
+        "Category": "Vegetarisk"
+    },
+    {
+        "Id": 45,
+        "Name": "Pannkakor",
+        "Category": "Vegetarisk"
+    },
+    {
+        "Id": 46,
+        "Name": "Halloumi med rostade grönsaker",
+        "Category": "Vegetarisk"
+    },
+    {
+        "Id": 47,
+        "Name": "Zucchinilasagne med cottage cheese",
+        "Category": "Vegetarisk"
+    },
+    {
+        "Id": 48,
+        "Name": "Bowl med sötpotatis, kikärtor och fetaost",
+        "Category": "Vegetarisk"
+    },
+    {
+        "Id": 49,
+        "Name": "Matvetesallad med melon och chilirostade kikärtor",
+        "Category": "Vegetarisk"
+    },
+    {
+        "Id": 50,
+        "Name": "Pestolasagne med majs",
+        "Category": "Vegetarisk"
+    },
+    {
+        "Id": 51,
+        "Name": "Färsk pasta, stekt zucchini och pastasås",
+        "Category": "Vegetarisk"
+    },
+    {
+        "Id": 52,
+        "Name": "Quinoasallad med chevre, rödbetor, honung och valnötter",
+        "Category": "Vegetarisk"
+    },
+    {
+        "Id": 53,
+        "Name": "Pizza",
+        "Category": "Vegetarisk"
+    },
+    {
+        "Id": 54,
+        "Name": "Taco med halloumi",
+        "Category": "Vegetarisk"
+    },
+    {
+        "Id": 55,
+        "Name": "Lins- och bönchili",
+        "Category": "Vegetarisk"
+    },
+    {
+        "Id": 56,
+        "Name": "Zucchinipasta med citron",
+        "Category": "Vegetarisk"
+    },
+    {
+        "Id": 57,
+        "Name": "Libapizza med zucchini och tomater",
+        "Category": "Vegetarisk"
+    },
+    {
+        "Id": 58,
+        "Name": "Enchiladas med svarta bönor och nachochips",
+        "Category": "Vegetarisk"
+    },
+    {
+        "Id": 59,
+        "Name": "Linslasagne med paprika och mozzarella",
+        "Category": "Vegetarisk"
+    },
+    {
+        "Id": 60,
+        "Name": "Potatis- och purjolöksoppa",
+        "Category": "Soppa"
+    },
+    {
+        "Id": 61,
+        "Name": "Morotssoppa med lime och ingefära och quesadillas",
+        "Category": "Soppa"
+    },
+    {
+        "Id": 62,
+        "Name": "Köttsoppa",
+        "Category": "Soppa"
+    },
+    {
+        "Id": 63,
+        "Name": "Fisksoppa",
+        "Category": "Soppa"
+    },
+    {
+        "Id": 64,
+        "Name": "Spenatsoppa med ägghalvor",
+        "Category": "Soppa"
+    },
+    {
+        "Id": 65,
+        "Name": "Gulaschsoppa",
+        "Category": "Soppa"
+    },
+    {
+        "Id": 66,
+        "Name": "Ärtsoppa",
+        "Category": "Soppa"
+    },
+    {
+        "Id": 67,
+        "Name": "Linssoppa med aubergine och ajvar",
+        "Category": "Soppa"
+    },
+    {
+        "Id": 68,
+        "Name": "Pumpasoppa med färskost",
+        "Category": "Soppa"
+    },
+    {
+        "Id": 69,
+        "Name": "Rostad blomkålssoppa",
+        "Category": "Soppa"
+    }
+]

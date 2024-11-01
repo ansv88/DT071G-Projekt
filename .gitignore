@@ -1,0 +1,39 @@
+# Kompilerade binära filer
+/bin/
+/obj/
+
+# Användarspecifika filer
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Byggartefakter och andra tillfälliga filer
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.vscode
+
+# Paket
+packages/
+*.nupkg
+*.snupkg
+.project.lock.json
+project.lock.json
+
+# Temporary and cache files for popular tools
+*.log
+.vs/
+.idea/
+.vscode/
+ReSharper/
+
+# Databasfiler
+*.db
+
+# Konfigurationsfiler för operativsystemet
+.DS_Store
+Thumbs.db
